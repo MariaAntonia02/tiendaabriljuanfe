@@ -1,10 +1,10 @@
 .fondo{
     background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(55,121,9,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgb(193, 61, 219) 0%, rgb(200, 139, 241) 35%, rgb(210, 185, 228) 100%);
 }
 
 .barner{
-    background-image: url(img/imagen1.webp);
+    background-image: url(img/nueve.webp);
     padding: 25%;
     background-attachment: fixed;
     background-position-x: top center;
