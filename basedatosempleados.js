@@ -99,7 +99,7 @@ let empleados=Array(
         correo:"paolajara2@gmail.com",
         salario:"7000000",
         contactoEmergencia:"315752143",
-        foto:"./img/11.jpg",
+        foto:"./img/11.jpg" 
 
     },
     {
@@ -110,7 +110,7 @@ let empleados=Array(
         correo:"shakirasanc12@gmail.com",
         salario:"7500000",
         contactoEmergencia:"314582143",
-        foto:"./img/12.jpg",
+        foto:"./img/20.jpeg",
     },
     {
         id:12,

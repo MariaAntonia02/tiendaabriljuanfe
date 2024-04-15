@@ -1,26 +1,42 @@
 .fondo{
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgb(193, 61, 219) 0%, rgb(200, 139, 241) 35%, rgb(210, 185, 228) 100%);
+    background: rgb(226,181,14);
+background: linear-gradient(90deg, rgba(226,181,14,1) 38%, rgba(238,244,13,1) 100%);
 }
 
-.barner{
-    background-image: url(img/nueve.webp);
+.baner{
+    background-image: url("img/imagen1.webp");
     padding: 25%;
     background-attachment: fixed;
-    background-position-x: top center;
+    background-position: top center;
     background-size: cover;
     position: relative;
-    z-index:1;
-
+    z-index: 1;
 }
-.barner::after{
+
+.baner::after{
     content: "";
     position: absolute;
     background-color: black;
     height: 100%;
     width: 100%;
-    top: 0;
+    top:0;
     left: 0;
-    opacity:0.2;
+    opacity: 0.3;
     z-index: -1;
+
 }
+header{
+    color: rgb(187, 187, 187);
+    background-color: rgb(206, 169, 240);
+}
+.baner2{
+    background-image: url("img/trabajadores12.png");
+    padding: 25%;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+}
+
